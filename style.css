@@ -1,0 +1,19 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: 'arial';
+}
+
+
+ul {
+	width:1000px;
+}
+
+img{
+	width:1000px;
+}
+#wrapper{
+	width:1000px;
+	background-color:black;
+	color:white;
+}
